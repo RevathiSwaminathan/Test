@@ -1,2 +1,6 @@
 test commit 1
+
 modifying the line
+
+adding a new line
+
